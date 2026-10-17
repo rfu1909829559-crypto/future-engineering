@@ -22,7 +22,7 @@ That reaction is understandable.
 
 The most eye-catching aspect of the project is not its acceleration, battery technology, or top speed. It is the possibility that a production vehicle could use a SpaceX-derived thruster system to perform short aerial maneuvers.
 
-![Roadster Demo](../images/roadster-demo.jpg)
+![Roadster Demo](pic/roadster-demo.jpg)
 
 *Figure 1. Roadster demonstration. Source: Tesla.*
 
@@ -46,15 +46,15 @@ From the Convair Model 118 to modern eVTOL concepts, most proposals follow the s
 
 Some rely on wings.
 
-![Convair 118](../images/convair118.jpg)
+![Convair 118](pic/convair118.png)
 
 *Figure 2. Convair Model 118.*
 
 Others rely on rotors.
 
-![eVTOL](../images/evtol.jpg)
+![eVTOL](pic/evtol.png)
 
-*Figure 3. Modern eVTOL aircraft.*
+*Figure 3. Modern eVTOL aircraft, Honda.*
 
 All of them ultimately depend on generating aerodynamic lift.
 
@@ -343,9 +343,9 @@ At this point I am reminded of a scene from *Mobile Suit Gundam Unicorn*.
 
 During combat, Banshee performs a rapid  thrusters before stabilizing for an attack.
 
-../images/banshee-brake.jpg
+![Banshee Braking Maneuver](pic/banshee-brake.gif)
 
-*Figure 4. Banshee using attitude-control thrusters to rapidly alter its velocity vector.*
+*Figure 4. Banshee rapidly altering its velocity vector using attitude-control thrusters.*
 
 As animation, the sequence lasts only a few seconds.
 
